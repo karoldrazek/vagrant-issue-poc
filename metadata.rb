@@ -1,0 +1,7 @@
+name             'test-vagrant'
+maintainer       'Karol Drazek'
+maintainer_email 'karol.drazek@cognifide.com'
+license          'Apache 2.0'
+description      'Installs/Configures test-vagrant'
+long_description 'Installs/Configures test-vagrant'
+version          '0.1.0'
